@@ -1,0 +1,329 @@
+.f1 {
+    position: fixed;
+}
+
+body {
+    background-color: black;
+}
+
+.s1 {
+    background-image: url(unnamed.png);
+    width: 60px;
+    height: 60px;
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 40px;
+
+}
+
+p {
+    display: inline-block;
+    color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+    position: fixed;
+}
+
+i {
+    color: aliceblue;
+    position: fixed;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+i:hover {
+    text-shadow: 2px 2px 2px;
+    scale: 1.1;
+    transition: 2s;
+}
+
+input {
+    display: inline-block;
+    position: fixed;
+    margin-left: 450px;
+    margin-top: 10px;
+    border-radius: 30px;
+    font-size: 30px;
+}
+
+input:hover {
+    text-shadow: 2px 2px 2px;
+    scale: 1.1;
+    transition: 2s;
+}
+
+#s16 {
+    color: aliceblue;
+    margin-left: 1260px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+#s17 {
+    color: aliceblue;
+    margin-left: 1320px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.s3 {
+    background-image: url(photo_5276280689806922238_y.jpg);
+    width: 35px;
+    height: 35px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: fixed;
+    display: inline-block;
+    margin-left: 1365px;
+    margin-top: 13px;
+}
+
+#s18 {
+    color: aliceblue;
+    margin-left: 900px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+#s19 {
+    color: aliceblue;
+    margin-left: 850px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.ssf1 {
+    width: 380px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.ssf1:hover {
+    scale: 1.1;
+    transition: 2s;
+    box-shadow: 2px 2px 2px white;
+}
+
+.ssf2 {
+    width: 380px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.ssf2:hover {
+    scale: 1.1;
+    transition: 2s;
+    box-shadow: 2px 2px 2px white;
+}
+
+.ssf3 {
+    width: 380px;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.ssf3:hover {
+    scale: 1.1;
+    transition: 2s;
+    box-shadow: 2px 2px 2px white;
+}
+
+.p1 {
+    font-size: small;
+    margin-left: 8px;
+    margin-top: 50px;
+}
+
+#ss {
+    margin-left: 12px;
+}
+
+#s79 {
+    margin-top: 100px;
+    margin-left: 14px;
+}
+
+.p2 {
+    font-size: small;
+    margin-left: 10px;
+    margin-top: 130px;
+}
+
+#s70 {
+    margin-top: 180px;
+    margin-left: 14px;
+}
+
+.p3 {
+    font-size: small;
+    margin-left: 5px;
+    margin-top: 210px;
+}
+
+#sff {
+    margin-top: 260px;
+    margin-left: 20px;
+}
+
+.p22 {
+    font-size: small;
+    margin-left: 5px;
+    margin-top: 290px;
+}
+
+h1 {
+    display: inline-block;
+    color: aliceblue;
+    margin-top: 400px;
+}
+
+.hed1 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 60px;
+    color: aliceblue;
+    margin-left: 100px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed2 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 60px;
+    color: aliceblue;
+    margin-left: 180px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed3 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 60px;
+    color: aliceblue;
+    margin-left: 260px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed4 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 60px;
+    color: aliceblue;
+    margin-left: 340px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed5 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 60px;
+    color: aliceblue;
+    margin-left: 420px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed6 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 60px;
+    color: aliceblue;
+    margin-left: 500px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed7 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 150px;
+    color: aliceblue;
+    margin-left: 580px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed8 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 110px;
+    color: aliceblue;
+    margin-left: 750px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed9 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 130px;
+    color: aliceblue;
+    margin-left: 880px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed10 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 90px;
+    color: aliceblue;
+    margin-left: 1030px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
+
+.hed11 {
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    line-height: 30px;
+    width: 100px;
+    color: aliceblue;
+    margin-left: 1140px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    display: inline-block;
+    position: fixed;
+}
